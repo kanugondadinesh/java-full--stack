@@ -1,0 +1,18 @@
+h1 {
+    margin: 10px;
+    border: 10px;
+    border-width: 2cap;
+    border-style: groove;
+    border-color: aqua pink purple gray;
+    color: aqua;
+}
+
+img {
+    margin: 10px;
+    border: 10px;
+    border-width: 2cm;
+    border-style: dotted;
+    border-color: aqua pink purple gray;
+    width: 300px;
+    padding: 0px 0px 250px 250px;
+}

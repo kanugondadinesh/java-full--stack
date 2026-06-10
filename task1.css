@@ -1,0 +1,30 @@
+img {
+    clip-path: circle(45%);
+    width: 350px;
+    border: 0px 0px 0px 300px;
+    text-shadow: 100px;
+
+}
+
+body {
+    margin: 10px;
+    border: 10px;
+    background-color: rgb(223, 245, 244);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(76, 201, 238);
+    font-family: Fantasy;
+    font-weight: 100;
+    
+
+
+}
+
+p {
+    color: rgb(35, 42, 37);
+    font-size: larger;
+    font-weight: 100;
+    font-style: italic;
+}

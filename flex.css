@@ -1,0 +1,12 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+}
+
+ul{
+    display: flex;
+    gap: 1cm;
+    list-style: square;
+}

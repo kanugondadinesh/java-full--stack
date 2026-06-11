@@ -1,0 +1,21 @@
+.friends{
+    display: grid;
+    grid-template-columns: 200px 1fr;
+}
+footer{
+    background-color: aqua;
+}
+footer{
+    
+}
+main{
+
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1cm;
+}
+.d1{
+    background-color: aqua;
+}
